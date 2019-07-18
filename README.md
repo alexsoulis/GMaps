@@ -1,5 +1,4 @@
 # GMaps
-This is my project pitch
 
 ## UX
 
